@@ -20,7 +20,7 @@ I am committed to collaborating with developers to build dynamic products and in
 ###
 
 <div align="center">
-  <a href="https://stroy.dev" target=blank_  title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/rachel-s"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+  <a href="https://stroy.dev" target=blank_  title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a>   <a href="https://www.linkedin.com/in/rachel-s-978397277/" target="_blank"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 
 ###
