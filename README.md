@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center"> In an era defined by rapid technological advancement, I am committed to reshaping the digital landscape through innovative web UI design and development.</p>
+<p align="center">As a creative developer, I blend design and development skills to transform ideas into dynamic web experiences. From concept to deployment, I navigate the complexities of starting from scratch, creating unique layouts and interactions that bring visions to life.</p>
 
 ###
 
