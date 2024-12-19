@@ -14,8 +14,7 @@
 
 ###
 
-<p align="center"> Artist and software engineer intuitively blending creativity and technical skill to create seamless web experiences.
-I am committed to collaborating with developers to build dynamic products and integrate new technologies.</p>
+<p align="center"> In an era defined by rapid technological advancement, I am committed to reshaping the digital landscape through innovative web UI design and development.</p>
 
 ###
 
